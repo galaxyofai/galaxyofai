@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Machine Learning Engineer.
+- 📫 How to reach me: <a href="https://galaxyofai.com/contact/">Contact Page</a>
+
+
+
 <!--
 **galaxyofai/galaxyofai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
