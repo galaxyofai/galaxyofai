@@ -5,7 +5,7 @@
 - 👉 Visit Our Blog Site : <a href="https://galaxyofai.com/blog/">Galaxy Of AI </a>
 - 📫 How to reach us: <a href="https://galaxyofai.com/contact/">Contact Us</a>
 
-#### You Will Go After Learning Something From Here..😊😊
+#### You Can Only Go After Learning Something From Here..😊😊
 
 
 
