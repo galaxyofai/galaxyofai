@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Machine Learning Engineer.
+- Visit Our Blog Site : <a href="https://galaxyofai.com/blog/">Galaxy Of AI </a>
 - 📫 How to reach me: <a href="https://galaxyofai.com/contact/">Contact Page</a>
 
 
